@@ -22,7 +22,7 @@ I’m a **Full Stack Developer** specializing in SaaS platforms, enterprise dash
 
 ---
 
-# 🧠 Tech Stack (Skill Pills)
+# 🧠 Tech Stack
 
 ## 🎨 Frontend
 <p>
@@ -81,7 +81,24 @@ I’m a **Full Stack Developer** specializing in SaaS platforms, enterprise dash
 
 ---
 
-# 📂 Professional Experience (Accordion)
+# 📂 Professional Experience
+
+<details>
+<summary><h3>🚀 Software Developer — Strawberry InfoTech (Client: Genpact) (2023–Present)</h3></summary>
+
+Currently working on **Genpact’s Enterprise E360 Platform**, a multi-client enterprise application used across multiple global teams.
+
+Key Contributions:
+- Building **multi-client architecture** for scaling the E360 platform  
+- Developing reusable UI modules and cross-tenant components  
+- Enhancing workflow features and client onboarding processes  
+- Working closely with Genpact teams to deliver high-performance frontend modules  
+
+Technologies: **Next Js, Vue Js, Redux Toolkit, Node.js, Enterprise UI Patterns, Express Js, SQL**
+
+</details>
+
+---
 
 <details>
 <summary><h3>🔥 Software Developer — Neotas (2022–2023)</h3></summary>
@@ -107,10 +124,10 @@ Contributed to **6–7 major projects**:
 
 ---
 
-# 🌐 Live Projects (Accordion)
+# 🌐 Live Projects 
 
 <details>
-<summary><h3>🎓 The Study IAS — E-Learning Platform (30K+ Users)</h3></summary>
+<summary><h3>🎓 The Study IAS — E-Learning Platform (100K+ Users)</h3></summary>
 
 - Built entire student dashboard  
 - Developed REST APIs  
