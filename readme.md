@@ -12,9 +12,9 @@
 ---
 
 ## 🚀 About Me  
-I’m a **Full Stack Developer** with experience in building production-grade SaaS products, enterprise dashboards, e-commerce systems, and scalable backend APIs. I love crafting clean UI, writing optimized REST services, and delivering user-first digital experiences.
+I’m a **Full Stack Developer** specializing in SaaS platforms, enterprise dashboards, backend architecture, and interactive UI development.
 
-💡 My expertise spans across **Vue**, **React**, **Django**, **Node**, **REST APIs**, and full product development cycles.
+💡 Skilled in **Vue, React, Django, Node, Express, FastAPI, REST APIs**, and more.
 
 🌐 **Portfolio:** https://deependra.dev  
 📍 **Faridabad, India**  
@@ -22,139 +22,170 @@ I’m a **Full Stack Developer** with experience in building production-grade Sa
 
 ---
 
-## ⚡ Tech Stack
+# 🧠 Tech Stack (Skill Pills)
 
-### **Frontend**
-- HTML5, CSS3, JavaScript  
-- React JS, Redux Toolkit 
-- Vue JS  
-- Next js  
-- Tailwind CSS, Material UI, Bootstrap, schadcn 
-- Ant Design, material UI, Daisy UI
-
-### **Backend**
-- Django, Django REST Framework  
-- Node.js, Express.js, socket  
-- FastAPI  
-- FFmpeg integrations (video transcoding)
-
-### **Databases**
-- PostgreSQL  
-- SQL  
-- MongoDB
-
-### **ORMS**
-- Django
-- Prisma
-   
-### **Other Skills**
-- Sketching, Drawing  
-- Photography  
-- Strong Leadership & Communication  
-- Quick Learning & High Adaptability
-- Traveling
-- Adventure
+## 🎨 Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React_JS-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue_JS-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next_JS-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/shadcn_UI-000000?style=for-the-badge" />
+</p>
 
 ---
 
-## 🧩 Professional Experience
+## 🛠 Backend
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/DRF-FF1709?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node_JS-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express_JS-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" />
+</p>
 
-### **🔥 Software Developer — Neotas (2022–2023)**
+---
+
+## 🗄️ Databases
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=database&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+---
+
+## 🧩 ORMs
+<p>
+  <img src="https://img.shields.io/badge/Django_ORM-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+</p>
+
+---
+
+## 🎭 Other Skills
+<p>
+  <img src="https://img.shields.io/badge/Sketching-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Photography-4A90E2?style=for-the-badge&logo=camera&logoColor=white" />
+  <img src="https://img.shields.io/badge/Leadership-FFD700?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Traveling-FF5733?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Adventure-8E44AD?style=for-the-badge" />
+</p>
+
+---
+
+# 📂 Professional Experience (Accordion)
+
+<details>
+<summary><h3>🔥 Software Developer — Neotas (2022–2023)</h3></summary>
+
 Worked on **two SaaS applications**:
-- Implemented key features like **Keylines graph, Tools module, advanced search**
+- Implemented major features: Keylines graph, Tools module, advanced search  
 - Built **tenant dashboard frontend** in Vue JS  
-- Technologies: **Vue JS, FastAPI, Tailwind CSS**
+- Tech: **Vue JS, FastAPI, Tailwind CSS**
+
+</details>
 
 ---
 
-### **⚙️ Software Developer — Alpha Cyber Solution (2020–2022)**
-Contributed to **6–7 major projects** across EdTech, FinTech, backend automation, and user dashboards.
+<details>
+<summary><h3>⚙️ Software Developer — Alpha Cyber Solution (2020–2022)</h3></summary>
 
-- Built APIs for **AEPS, MicroATM, Recharge, Bill Payments**
-- Developed Student Dashboard APIs for an EdTech app serving **30,000+ IAS aspirants**
-- Built multiple production-ready applications for clients
+Contributed to **6–7 major projects**:
+- Built APIs for AEPS, MicroATM, Recharge, Bill Payments  
+- Developed dashboard APIs for an IAS learning app with **30,000+ users**  
+- Technologies: **Django, DRF, HTML, CSS, JS**
 
-Technologies: **Django, DRF, HTML, CSS, JS**
-
----
-
-## 🌐 Live Projects (Selected)
-
-### 🎓 **The Study IAS — E-Learning Platform (30K+ Students)**
-- Built **complete student dashboard frontend** with Django MVT  
-- Developed **REST APIs** for web/app  
-- Tech: Django, DRF, HTML, CSS, JS
+</details>
 
 ---
 
-### 🏦 **VA-CSC App — Multi-Service Backend**
-A robust, optimized backend powering thousands of users with services like AEPS, MicroATM, Recharge & Bill Pay.  
-- Built multiple production APIs  
-- Ensured encryption & security compliance  
-- Tech: Django, DRF
+# 🌐 Live Projects (Accordion)
+
+<details>
+<summary><h3>🎓 The Study IAS — E-Learning Platform (30K+ Users)</h3></summary>
+
+- Built entire student dashboard  
+- Developed REST APIs  
+- Tech: Django, DRF, HTML, CSS, JS  
+
+</details>
 
 ---
 
-### 🎞️ **Transcoding Server — Video Optimization**
-- Developed FFmpeg-based video chunking solution  
-- Used across multiple e-learning platforms  
-- Tech: Django, DRF, FFmpeg
+<details>
+<summary><h3>🏦 VA-CSC App — Multi-Service Backend</h3></summary>
+
+- AEPS, MicroATM, Recharge, Bill Payment services  
+- Built secure, encrypted REST APIs  
+- Tech: Django, DRF  
+
+</details>
 
 ---
 
-### 🛒 **Niliyam E-Commerce Store**
-- Built complete **React frontend**  
-- Integrated all APIs (Node + Express)  
-- Delivered multi-theme, responsive UI  
-- Tech: React, Node, Express
+<details>
+<summary><h3>🎞️ Transcoding Server — Video Optimization</h3></summary>
+
+- FFmpeg-based transcoding system for e-learning apps  
+- Tech: Django, DRF, FFmpeg  
+
+</details>
 
 ---
 
-### 🚗 **Limo Booking System (Texas, USA)**
-- Created API system for booking logic  
-- Built frontend UI in React JS  
-- Managed backend in Django MVT + DRF  
-- Tech: React, Django, DRF
+<details>
+<summary><h3>🛒 Niliyam E-Commerce Store</h3></summary>
+
+- Developed full React frontend  
+- Integrated backend APIs  
+- Tech: React, Node, Express  
+
+</details>
 
 ---
 
-## 📂 Other Notable Projects
-- Multi-tenant E-commerce Platform (React, Express, Prisma)  
-- Dating Application (Express.js)  
-- Blog System with Authentication & SEO tools (Django + React)  
-- Online Examination System (Django)  
-- Multiple E-commerce Templates (React JS)
+<details>
+<summary><h3>🚗 Limo Booking Website (Texas, USA)</h3></summary>
+
+- Created API system  
+- Built React website  
+- Tech: React, Django, DRF  
+
+</details>
 
 ---
 
 ## 📘 Education
 - **B.Tech in Computer Science** — YMCA University  
-- **Kendriya Vidyalaya No. 1** — Completed 2018
+- **Kendriya Vidyalaya No. 1** — Completed 2018  
 
 ---
 
-## 🏆 Strengths
-- Leadership & Team Collaboration  
-- Quick Learner & Highly Adaptable  
-- Strong Determination  
-- Excellent Communication  
-- Passion for Clean Code & UI/UX
-
----
-
-## 🛠️ GitHub Stats (Auto-Generated)
+# 🛠 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=msatech&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=msatech&theme=tokyonight" />
 </p>
 
 ---
 
-## 🌈 Let's Connect!
+# 🌈 Let's Connect!
 <p align="left">
-  <a href="mailto:deependrakumar049@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://deependra.dev"><img src="https://img.shields.io/badge/Portfolio-deependradev-4A90E2?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="mailto:deependrakumar049@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://deependra.dev">
+    <img src="https://img.shields.io/badge/Portfolio-deependradev-4A90E2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
 </p>
 
 ---
